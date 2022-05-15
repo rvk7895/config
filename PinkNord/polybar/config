@@ -62,8 +62,8 @@ font-2 = "Material Icons:pixelsize=15;5"
 font-4 = "Togalite medium:pixelsize=12;4"
 
 ; MODULES SETUP
-modules-left = bspwm taskwarrior
-modules-center = windowtitle spotify
+modules-left = bspwm 
+modules-center = windowtitle 
 modules-right = filesystem cpu memory volume date bluetooth battery shutdown 
 
 ;tray-position = center
